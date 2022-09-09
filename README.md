@@ -1,8 +1,6 @@
 # **WP4T41-01 Data Compression Library for Low Power Services**
 
-Description of the component.
-
-How does the component satisfy the WP/FRACTAL objectives?
+This component satisfies the need to investigate compression techniques for energy-efficient data compression to reduce the amount of data transfer for low-power services. This data compression component contributes to improving nodes utilization, bandwidth efficiency, and increasing network lifetime.
 
 ## Getting Started
 
